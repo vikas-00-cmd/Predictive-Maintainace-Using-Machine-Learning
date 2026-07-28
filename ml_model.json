@@ -1,0 +1,9 @@
+{
+  "vibration_mm_s": 5.5,
+  "current_A": 6.5,
+  "temperature_C": 7.5,
+  "motor_condition": "Fault",
+  "condition_confidence": 0.6792,
+  "fault_type": "Misalignment",
+  "fault_confidence": 0.5447
+}
